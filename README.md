@@ -1,5 +1,5 @@
 # André Saraiva
-<a href="https://www.linkedin.com/in/luiz-claudio-b5b3b21b8/"><img src="https://img.shields.io/badge/-LinkedIn-blue" alt="Linkedin Profile" /></a>
+<a href="https://www.linkedin.com/in/andre2654/"><img src="https://img.shields.io/badge/-LinkedIn-blue" alt="Linkedin Profile" /></a>
 ## Hi👋,
 I'm André Saraiva, I'm a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
 
